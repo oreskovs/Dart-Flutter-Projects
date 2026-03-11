@@ -23,7 +23,7 @@
 
 | Light Mode                                                                                                                     | Dark Mode                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Light Mode](https://github.com/oreskovs/Dart-Flutter-Project/blob/main/HabitFlow/assets/screenshots/light_mode.png?raw=true) | ![Dark Mode](https://github.com/oreskovs/Dart-Flutter-Project/blob/main/HabitFlow/assets/screenshots/dark_mode.png?raw=true) |
+| ![Light Mode](https://github.com/oreskovs/Dart-Flutter-Projects/blob/main/HabitFlow/assets/screenshots/Screenshot%202026-03-11%20130646.png) | ![Dark Mode](https://github.com/oreskovs/Dart-Flutter-Projects/blob/main/HabitFlow/assets/screenshots/Screenshot%202026-03-11%20130631.png) |
 
 ## 📁 Project Structure
 
@@ -38,8 +38,6 @@ lib/
 Clone the repository:
  git clone [https://github.com/oreskovs/Dart-Flutter-Project.git](https://github.com/oreskovs/Dart-Flutter-Project.git)
 
-git clone [https://github.com/oreskovs/Dart-Flutter-Project.git](https://github.com/oreskovs/Dart-Flutter-Project.git)
-
 Navigate to the project directory:
  cd HabitFlow
 
@@ -52,3 +50,4 @@ Run the application:
 
 👨‍💻 Developed by oreskovs
 ```
+
