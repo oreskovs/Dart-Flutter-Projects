@@ -1,8 +1,8 @@
 # 🌍 World Pulse (Weather Application)
 
 <p align="center">
-  <img src="world_pulse/screenshots/main_view.png" width="300" alt="Main Weather View">
-  <img src="world_pulse/screenshots/forecast_view.png" width="300" alt="Search and Forecast">
+  <img src="https://github.com/oreskovs/Dart-Flutter-Projects/blob/main/world_pulse/lib/assets/Screenshot%202026-03-13%20091409.png">
+  <img src="https://github.com/oreskovs/Dart-Flutter-Projects/blob/main/world_pulse/lib/assets/Screenshot%202026-03-13%20091434.png">
 </p>
 
 ---
@@ -49,6 +49,7 @@ Create a .env file inside the world_pulse folder:
 
 Code snippet
 OPENWEATHER_API_KEY=your_api_key_here
+
 Run the application:
 
 Bash
@@ -60,3 +61,4 @@ The project is configured to ignore .env files via .gitignore to ensure that per
 <p align="center">
 Maintained by <a href="https://www.google.com/search?q=https://github.com/oreskovs">oreskovs</a>
 </p>
+
