@@ -44,12 +44,7 @@ Communication with the backend is handled via a dedicated `MovieApiService`. Thi
 ```bash
 flutter pub get
 flutter run
-📸 PreviewHome ScreenMovie DetailsFavorites Watchlist🤝 ContactStojance Reskov - GitHub ProfileBuilt with ❤️ using Flutter and Riverpod.
----
 
-### Pro-Tips for your GitHub:
-* **Screenshots**: Replace the placeholder links in the table with actual screenshots of your app. You can upload the images to a folder named `screenshots` in your repo and link them like this: `./screenshots/home.png`.
-* **Clean Code**: Before pushing, make sure to remove the `import 'package:flutter_riverpod/legacy.dart';` from your `movie_provider.dart` as it is no longer needed for your current implementation.
+Contact Stojance Oreskov - GitHub Profile
+Built with ❤️ using Flutter and Riverpod.
 
-Would you like me to help you write a summary for your next project or perhaps prepare
-```
